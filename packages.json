@@ -1,0 +1,18 @@
+{
+    "name": "TKSPCollection",
+    "overview": "Toki Swift Package Collection",
+    "author": {
+        "name": "TokiHunter"
+    },
+    "keywords": [
+        "TK"
+    ],
+    "packages": [
+        {
+            "url": "git@github.com:TKSwiftPackages/TKSPDog.git"
+        },
+        {
+            "url": "git@github.com:TKSwiftPackages/TKSPAnimal.git"
+        }
+    ]
+}
